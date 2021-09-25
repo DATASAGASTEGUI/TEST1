@@ -1,0 +1,140 @@
+Segment,Country, Product , Discount Band ,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales,COGS,Profit,Date,Month Number, Month Name 
+Government,United States of America, VTT , High ,2807.0,250.00,350.00,982450.00,98245.00,884205.00,729820.00,154385.00,8/1/2014,8, August 
+Small Business,United States of America, Paseo , Low ,2905.0,10.00,300.00,871500.00,8715.00,862785.00,726250.00,136535.00,11/1/2014,11, November 
+Government,United States of America, Montana , High ,2313.0,5.00,350.00,809550.00,80955.00,728595.00,601380.00,127215.00,5/1/2014,5, May 
+Government,United States of America, Amarilla , Medium ,2071.0,260.00,350.00,724850.00,65236.50,659613.50,538460.00,121153.50,9/1/2014,9, September 
+Small Business,United States of America, Montana , Low ,2498.0,5.00,300.00,749400.00,7494.00,741906.00,624500.00,117406.00,9/1/2013,9, September 
+Small Business,United States of America, VTT , Low ,2844.0,250.00,300.00,853200.00,25596.00,827604.00,711000.00,116604.00,2/1/2014,2, February 
+Government,United States of America, Carretera , Medium ,1761.0,3.00,350.00,616350.00,43144.50,573205.50,457860.00,115345.50,3/1/2014,3, March 
+Small Business,United States of America, Paseo , Low ,2918.0,10.00,300.00,875400.00,35016.00,840384.00,729500.00,110884.00,5/1/2014,5, May 
+Small Business,United States of America, Montana , Low ,2301.0,5.00,300.00,690300.00,6903.00,683397.00,575250.00,108147.00,4/1/2014,4, April 
+Government,United States of America, VTT , Medium ,1351.5,250.00,350.00,473025.00,42572.25,430452.75,351390.00,79062.75,4/1/2014,4, April 
+Government,United States of America, Paseo , High ,2007.0,10.00,350.00,702450.00,105367.50,597082.50,521820.00,75262.50,11/1/2013,11, November 
+Small Business,United States of America, Amarilla , High ,2993.0,260.00,300.00,897900.00,89790.00,808110.00,748250.00,59860.00,3/1/2014,3, March 
+Government,United States of America, Paseo , Medium ,727.0,10.00,350.00,254450.00,15267.00,239183.00,189020.00,50163.00,10/1/2013,10, October 
+Government,United States of America, Amarilla , Medium ,727.0,260.00,350.00,254450.00,15267.00,239183.00,189020.00,50163.00,10/1/2013,10, October 
+Government,Germany, Montana , High ,1199.0,5.00,350.00,419650.00,58751.00,360899.00,311740.00,49159.00,4/1/2014,4, April 
+Government,United States of America, Paseo , High ,1177.0,10.00,350.00,411950.00,57673.00,354277.00,306020.00,48257.00,11/1/2014,11, November 
+Government,United States of America, Velo , High ,986.0,120.00,350.00,345100.00,41412.00,303688.00,256360.00,47328.00,10/1/2014,10, October 
+Government,United States of America, VTT , High ,986.0,250.00,350.00,345100.00,41412.00,303688.00,256360.00,47328.00,10/1/2014,10, October 
+Small Business,United States of America, Velo , High ,2294.0,120.00,300.00,688200.00,68820.00,619380.00,573500.00,45880.00,10/1/2013,10, October 
+Small Business,United States of America, VTT , High ,2294.0,250.00,300.00,688200.00,68820.00,619380.00,573500.00,45880.00,10/1/2013,10, October 
+Government,United States of America, Montana , High ,982.5,5.00,350.00,343875.00,44703.75,299171.25,255450.00,43721.25,1/1/2014,1, January 
+Government,United States of America, Paseo , Medium ,602.0,10.00,350.00,210700.00,10535.00,200165.00,156520.00,43645.00,6/1/2014,6, June 
+Government,United States of America, Velo , Medium ,602.0,120.00,350.00,210700.00,10535.00,200165.00,156520.00,43645.00,6/1/2014,6, June 
+Small Business,United States of America, VTT , Medium ,1867.0,250.00,300.00,560100.00,50409.00,509691.00,466750.00,42941.00,9/1/2014,9, September 
+Small Business,United States of America, Velo , Medium ,1372.0,120.00,300.00,411600.00,28812.00,382788.00,343000.00,39788.00,12/1/2014,12, December 
+Small Business,United States of America, Amarilla , Medium ,1372.0,260.00,300.00,411600.00,28812.00,382788.00,343000.00,39788.00,12/1/2014,12, December 
+Small Business,United States of America, Carretera , Medium ,991.0,3.00,300.00,297300.00,14865.00,282435.00,247750.00,34685.00,6/1/2014,6, June 
+Small Business,United States of America, Paseo , Medium ,991.0,10.00,300.00,297300.00,14865.00,282435.00,247750.00,34685.00,6/1/2014,6, June 
+Government,United States of America, VTT , Low ,349.0,250.00,350.00,122150.00,4886.00,117264.00,90740.00,26524.00,9/1/2013,9, September 
+Government,United States of America, Velo , Medium ,2832.0,120.00,20.00,56640.00,2832.00,53808.00,28320.00,25488.00,8/1/2014,8, August 
+Government,United States of America, Paseo , Medium ,2663.0,10.00,20.00,53260.00,2663.00,50597.00,26630.00,23967.00,12/1/2014,12, December 
+Government,United States of America, VTT , Medium ,2663.0,250.00,20.00,53260.00,2663.00,50597.00,26630.00,23967.00,12/1/2014,12, December 
+Channel Partners,United States of America, Montana , Medium ,2723.0,5.00,12.00,32676.00,1960.56,30715.44,8169.00,22546.44,11/1/2014,11, November 
+Government,United States of America, VTT , Low ,266.0,250.00,350.00,93100.00,1862.00,91238.00,69160.00,22078.00,12/1/2013,12, December 
+Channel Partners,United States of America, Paseo , High ,2914.0,10.00,12.00,34968.00,4895.52,30072.48,8742.00,21330.48,10/1/2014,10, October 
+Channel Partners,United States of America, Amarilla , High ,2914.0,260.00,12.00,34968.00,4895.52,30072.48,8742.00,21330.48,10/1/2014,10, October 
+Small Business,United States of America, VTT , Medium ,808.0,250.00,300.00,242400.00,19392.00,223008.00,202000.00,21008.00,12/1/2013,12, December 
+Government,United States of America, Carretera , Low ,274.0,3.00,350.00,95900.00,3836.00,92064.00,71240.00,20824.00,12/1/2014,12, December 
+Government,United States of America, Paseo , Low ,274.0,10.00,350.00,95900.00,3836.00,92064.00,71240.00,20824.00,12/1/2014,12, December 
+Small Business,United States of America, VTT , High ,2541.0,250.00,300.00,762300.00,106722.00,655578.00,635250.00,20328.00,8/1/2014,8, August 
+Small Business,United States of America, Velo , High ,2460.0,120.00,300.00,738000.00,103320.00,634680.00,615000.00,19680.00,7/1/2014,7, July 
+Government,United States of America, Paseo , High ,2641.0,10.00,20.00,52820.00,6866.60,45953.40,26410.00,19543.40,2/1/2014,2, February 
+Channel Partners,United States of America, Amarilla , None ,2141.0,260.00,12.00,25692.00,0.00,25692.00,6423.00,19269.00,8/1/2014,8, August 
+Channel Partners,United States of America, Amarilla , Low ,1989.0,260.00,12.00,23868.00,238.68,23629.32,5967.00,17662.32,9/1/2013,9, September 
+Channel Partners,United States of America, Amarilla , None ,1953.0,260.00,12.00,23436.00,0.00,23436.00,5859.00,17577.00,4/1/2014,4, April 
+Channel Partners,United States of America, Carretera , Low ,1947.0,3.00,12.00,23364.00,700.92,22663.08,5841.00,16822.08,9/1/2014,9, September 
+Channel Partners,United States of America, Carretera , Low ,1858.0,3.00,12.00,22296.00,222.96,22073.04,5574.00,16499.04,2/1/2014,2, February 
+Channel Partners,United States of America, VTT , Medium ,1956.0,250.00,12.00,23472.00,2112.48,21359.52,5868.00,15491.52,1/1/2014,1, January 
+Government,United States of America, Montana , Low ,1566.0,5.00,20.00,31320.00,626.40,30693.60,15660.00,15033.60,10/1/2014,10, October 
+Government,United States of America, Velo , Low ,1566.0,120.00,20.00,31320.00,626.40,30693.60,15660.00,15033.60,10/1/2014,10, October 
+Channel Partners,United States of America, Amarilla , High ,2015.0,260.00,12.00,24180.00,3385.20,20794.80,6045.00,14749.80,12/1/2013,12, December 
+Enterprise,United States of America, Velo , None ,2821.0,120.00,125.00,352625.00,0.00,352625.00,338520.00,14105.00,8/1/2014,8, August 
+Midmarket,United States of America, Paseo , Medium ,3675.0,10.00,15.00,55125.00,4961.25,50163.75,36750.00,13413.75,4/1/2014,4, April 
+Channel Partners,United States of America, VTT , High ,1806.0,250.00,12.00,21672.00,3250.80,18421.20,5418.00,13003.20,5/1/2014,5, May 
+Government,United States of America, Amarilla , High ,270.0,260.00,350.00,94500.00,11340.00,83160.00,70200.00,12960.00,2/1/2014,2, February 
+Small Business,United States of America, Velo , High ,2574.0,120.00,300.00,772200.00,115830.00,656370.00,643500.00,12870.00,11/1/2013,11, November 
+Government,United States of America, Carretera , High ,1743.0,3.00,20.00,34860.00,4880.40,29979.60,17430.00,12549.60,5/1/2014,5, May 
+Channel Partners,United States of America, Velo , Low ,1465.0,120.00,12.00,17580.00,703.20,16876.80,4395.00,12481.80,3/1/2014,3, March 
+Government,United States of America, Velo , Medium ,1421.0,120.00,20.00,28420.00,1989.40,26430.60,14210.00,12220.60,12/1/2013,12, December 
+Government,United States of America, Amarilla , Low ,1236.0,260.00,20.00,24720.00,494.40,24225.60,12360.00,11865.60,11/1/2014,11, November 
+Channel Partners,United States of America, Paseo , Low ,1369.5,10.00,12.00,16434.00,493.02,15940.98,4108.50,11832.48,7/1/2014,7, July 
+Midmarket,United States of America, Paseo , Medium ,2931.0,10.00,15.00,43965.00,3077.55,40887.45,29310.00,11577.45,9/1/2013,9, September 
+Government,United States of America, VTT , Medium ,1265.0,250.00,20.00,25300.00,1265.00,24035.00,12650.00,11385.00,11/1/2013,11, November 
+Government,United States of America, Montana , Medium ,1282.0,5.00,20.00,25640.00,2051.20,23588.80,12820.00,10768.80,6/1/2014,6, June 
+Government,United States of America, Amarilla , Medium ,1282.0,260.00,20.00,25640.00,2051.20,23588.80,12820.00,10768.80,6/1/2014,6, June 
+Midmarket,United States of America, Amarilla , High ,3199.5,260.00,15.00,47992.50,5279.18,42713.33,31995.00,10718.33,7/1/2014,7, July 
+Channel Partners,United States of America, Montana , Low ,1142.0,5.00,12.00,13704.00,274.08,13429.92,3426.00,10003.92,6/1/2014,6, June 
+Channel Partners,United States of America, Paseo , Low ,1142.0,10.00,12.00,13704.00,274.08,13429.92,3426.00,10003.92,6/1/2014,6, June 
+Government,United States of America, Carretera , Medium ,1117.5,3.00,20.00,22350.00,1341.00,21009.00,11175.00,9834.00,1/1/2014,1, January 
+Government,United States of America, Paseo , Low ,1056.0,10.00,20.00,21120.00,844.80,20275.20,10560.00,9715.20,9/1/2014,9, September 
+Midmarket,United States of America, Paseo , Low ,1925.0,10.00,15.00,28875.00,577.50,28297.50,19250.00,9047.50,12/1/2013,12, December 
+Midmarket,United States of America, Paseo , Medium ,2198.0,10.00,15.00,32970.00,1978.20,30991.80,21980.00,9011.80,8/1/2014,8, August 
+Government,United States of America, Paseo , Low ,4492.5,10.00,7.00,31447.50,314.48,31133.03,22462.50,8670.53,4/1/2014,4, April 
+Midmarket,United States of America, Carretera , Medium ,2030.0,3.00,15.00,30450.00,1827.00,28623.00,20300.00,8323.00,11/1/2014,11, November 
+Channel Partners,United States of America, Paseo , None ,912.0,10.00,12.00,10944.00,0.00,10944.00,2736.00,8208.00,11/1/2013,11, November 
+Midmarket,United States of America, Amarilla , High ,2548.0,260.00,15.00,38220.00,4586.40,33633.60,25480.00,8153.60,11/1/2013,11, November 
+Small Business,United States of America, Carretera , High ,1010.0,3.00,300.00,303000.00,42420.00,260580.00,252500.00,8080.00,10/1/2014,10, October 
+Small Business,United States of America, VTT , High ,1010.0,250.00,300.00,303000.00,42420.00,260580.00,252500.00,8080.00,10/1/2014,10, October 
+Government,United States of America, Paseo , Medium ,973.0,10.00,20.00,19460.00,1751.40,17708.60,9730.00,7978.60,3/1/2014,3, March 
+Midmarket,United States of America, Carretera , High ,2567.0,3.00,15.00,38505.00,5005.65,33499.35,25670.00,7829.35,6/1/2014,6, June 
+Midmarket,United States of America, VTT , High ,2567.0,250.00,15.00,38505.00,5005.65,33499.35,25670.00,7829.35,6/1/2014,6, June 
+Midmarket,United States of America, Paseo , Low ,1514.0,10.00,15.00,22710.00,227.10,22482.90,15140.00,7342.90,2/1/2014,2, February 
+Government,United States of America, Velo , Low ,736.0,120.00,20.00,14720.00,588.80,14131.20,7360.00,6771.20,9/1/2013,9, September 
+Channel Partners,United States of America, Paseo , High ,914.0,10.00,12.00,10968.00,1645.20,9322.80,2742.00,6580.80,12/1/2014,12, December 
+Channel Partners,United States of America, Velo , High ,914.0,120.00,12.00,10968.00,1645.20,9322.80,2742.00,6580.80,12/1/2014,12, December 
+Midmarket,United States of America, Paseo , High ,1767.0,10.00,15.00,26505.00,3710.70,22794.30,17670.00,5124.30,9/1/2014,9, September 
+Government,United States of America, Carretera , Low ,2529.0,3.00,7.00,17703.00,177.03,17525.97,12645.00,4880.97,7/1/2014,7, July 
+Midmarket,United States of America, Paseo , Medium ,1153.0,10.00,15.00,17295.00,1037.70,16257.30,11530.00,4727.30,10/1/2014,10, October 
+Midmarket,United States of America, VTT , Medium ,1153.0,250.00,15.00,17295.00,1037.70,16257.30,11530.00,4727.30,10/1/2014,10, October 
+Government,United States of America, Velo , High ,606.0,120.00,20.00,12120.00,1696.80,10423.20,6060.00,4363.20,4/1/2014,4, April 
+Government,United States of America, Velo , Medium ,2907.0,120.00,7.00,20349.00,1627.92,18721.08,14535.00,4186.08,6/1/2014,6, June 
+Government,United States of America, Amarilla , Medium ,2907.0,260.00,7.00,20349.00,1627.92,18721.08,14535.00,4186.08,6/1/2014,6, June 
+Government,United States of America, Paseo , Medium ,2327.0,10.00,7.00,16289.00,814.45,15474.55,11635.00,3839.55,5/1/2014,5, May 
+Government,United States of America, Paseo , Low ,2013.0,10.00,7.00,14091.00,281.82,13809.18,10065.00,3744.18,12/1/2013,12, December 
+Government,United States of America, VTT , Medium ,436.5,250.00,20.00,8730.00,698.40,8031.60,4365.00,3666.60,7/1/2014,7, July 
+Midmarket,United States of America, Montana , None ,615.0,5.00,15.00,9225.00,0.00,9225.00,6150.00,3075.00,12/1/2014,12, December 
+Midmarket,United States of America, Amarilla , None ,615.0,260.00,15.00,9225.00,0.00,9225.00,6150.00,3075.00,12/1/2014,12, December 
+Government,United States of America, Carretera , High ,2996.0,3.00,7.00,20972.00,2936.08,18035.92,14980.00,3055.92,10/1/2013,10, October 
+Government,United States of America, Montana , High ,2996.0,5.00,7.00,20972.00,2936.08,18035.92,14980.00,3055.92,10/1/2013,10, October 
+Government,United States of America, Montana , High ,2328.0,5.00,7.00,16296.00,1629.60,14666.40,11640.00,3026.40,9/1/2014,9, September 
+Channel Partners,United States of America, Carretera , High ,386.0,3.00,12.00,4632.00,463.20,4168.80,1158.00,3010.80,10/1/2013,10, October 
+Channel Partners,United States of America, Paseo , High ,386.0,10.00,12.00,4632.00,463.20,4168.80,1158.00,3010.80,10/1/2013,10, October 
+Midmarket,United States of America, Paseo , Low ,671.0,10.00,15.00,10065.00,402.60,9662.40,6710.00,2952.40,10/1/2013,10, October 
+Midmarket,United States of America, Amarilla , Low ,671.0,260.00,15.00,10065.00,402.60,9662.40,6710.00,2952.40,10/1/2013,10, October 
+Midmarket,United States of America, Velo , High ,790.0,120.00,15.00,11850.00,1185.00,10665.00,7900.00,2765.00,5/1/2014,5, May 
+Enterprise,United States of America, Paseo , Low ,727.0,10.00,125.00,90875.00,908.75,89966.25,87240.00,2726.25,6/1/2014,6, June 
+Enterprise,United States of America, VTT , Low ,727.0,250.00,125.00,90875.00,908.75,89966.25,87240.00,2726.25,6/1/2014,6, June 
+Enterprise,United States of America, Montana , Low ,663.0,5.00,125.00,82875.00,828.75,82046.25,79560.00,2486.25,10/1/2013,10, October 
+Enterprise,United States of America, Velo , Low ,663.0,120.00,125.00,82875.00,828.75,82046.25,79560.00,2486.25,10/1/2013,10, October 
+Midmarket,United States of America, Velo , Medium ,555.0,120.00,15.00,8325.00,416.25,7908.75,5550.00,2358.75,1/1/2014,1, January 
+Government,United States of America, Paseo , None ,1143.0,10.00,7.00,8001.00,0.00,8001.00,5715.00,2286.00,10/1/2014,10, October 
+Government,United States of America, Amarilla , None ,1143.0,260.00,7.00,8001.00,0.00,8001.00,5715.00,2286.00,10/1/2014,10, October 
+Midmarket,United States of America, Montana , High ,677.0,5.00,15.00,10155.00,1218.60,8936.40,6770.00,2166.40,3/1/2014,3, March 
+Government,United States of America, VTT , High ,1579.0,250.00,7.00,11053.00,1215.83,9837.17,7895.00,1942.17,3/1/2014,3, March 
+Government,United States of America, Paseo , High ,267.0,10.00,20.00,5340.00,801.00,4539.00,2670.00,1869.00,10/1/2013,10, October 
+Government,United States of America, VTT , High ,267.0,250.00,20.00,5340.00,801.00,4539.00,2670.00,1869.00,10/1/2013,10, October 
+Government,United States of America, Paseo , High ,1438.5,10.00,7.00,10069.50,1309.04,8760.47,7192.50,1567.97,1/1/2014,1, January 
+Government,United States of America, Montana , High ,1298.0,5.00,7.00,9086.00,1181.18,7904.82,6490.00,1414.82,2/1/2014,2, February 
+Enterprise,United States of America, Carretera , Low ,330.0,3.00,125.00,41250.00,412.50,40837.50,39600.00,1237.50,9/1/2013,9, September 
+Government,United States of America, Paseo , Medium ,678.0,10.00,7.00,4746.00,379.68,4366.32,3390.00,976.32,8/1/2014,8, August 
+Government,United States of America, Carretera , Medium ,570.0,3.00,7.00,3990.00,199.50,3790.50,2850.00,940.50,12/1/2014,12, December 
+Government,United States of America, VTT , Medium ,570.0,250.00,7.00,3990.00,199.50,3790.50,2850.00,940.50,12/1/2014,12, December 
+Government,United States of America, Velo , Medium ,547.0,120.00,7.00,3829.00,268.03,3560.97,2735.00,825.97,11/1/2014,11, November 
+Government,United States of America, Paseo , High ,380.0,10.00,7.00,2660.00,292.60,2367.40,1900.00,467.40,9/1/2013,9, September 
+Government,United States of America, Carretera , Medium ,263.0,3.00,7.00,1841.00,110.46,1730.54,1315.00,415.54,11/1/2013,11, November 
+Enterprise,United States of America, Paseo , Medium ,861.0,10.00,125.00,107625.00,5381.25,102243.75,103320.00,-1076.25,10/1/2014,10, October 
+Enterprise,United States of America, Velo , Medium ,861.0,120.00,125.00,107625.00,5381.25,102243.75,103320.00,-1076.25,10/1/2014,10, October 
+Enterprise,United States of America, Paseo , Medium ,2992.0,10.00,125.00,374000.00,18700.00,355300.00,359040.00,-3740.00,3/1/2014,3, March 
+Enterprise,United States of America, Amarilla , High ,579.0,260.00,125.00,72375.00,7237.50,65137.50,69480.00,-4342.50,1/1/2014,1, January 
+Enterprise,United States of America, Montana , Medium ,3627.0,5.00,125.00,453375.00,22668.75,430706.25,435240.00,-4533.75,7/1/2014,7, July 
+Enterprise,United States of America, Velo , Medium ,2755.0,120.00,125.00,344375.00,20662.50,323712.50,330600.00,-6887.50,2/1/2014,2, February 
+Enterprise,United States of America, Velo , High ,1596.0,120.00,125.00,199500.00,19950.00,179550.00,191520.00,-11970.00,9/1/2014,9, September 
+Enterprise,United States of America, Montana , High ,1804.0,5.00,125.00,225500.00,22550.00,202950.00,216480.00,-13530.00,11/1/2013,11, November 
+Enterprise,United States of America, Montana , Medium ,2797.0,5.00,125.00,349625.00,31466.25,318158.75,335640.00,-17481.25,12/1/2014,12, December 
+Enterprise,United States of America, Paseo , Medium ,2797.0,10.00,125.00,349625.00,31466.25,318158.75,335640.00,-17481.25,12/1/2014,12, December 
+Enterprise,United States of America, VTT , High ,2387.0,250.00,125.00,298375.00,35805.00,262570.00,286440.00,-23870.00,11/1/2014,11, November 
+Enterprise,United States of America, Carretera , High ,3445.5,3.00,125.00,430687.50,43068.75,387618.75,413460.00,-25841.25,4/1/2014,4, April 
+Enterprise,United States of America, Velo , High ,2438.0,120.00,125.00,304750.00,45712.50,259037.50,292560.00,-33522.50,12/1/2013,12, December 
+Enterprise,United States of America, Amarilla , High ,2844.0,260.00,125.00,355500.00,49770.00,305730.00,341280.00,-35550.00,5/1/2014,5, May 
